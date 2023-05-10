@@ -10,7 +10,7 @@ const team1 = [...players]; // Using spread operator to create a copy of players
 
 const cap1 = { ...person }; // Using spread operator to create a copy of person object
 
-// Testing the variables
-console.log(team);   // Output: ["John", "Bob", "Alice", "Poppy"]
-console.log(team1);  // Output: ["John", "Bob", "Alice", "Poppy"]
-console.log(cap1);   // Output: { name: "John Doe", age: 80 }
+// // Testing the variables
+// console.log(team);   // Output: ["John", "Bob", "Alice", "Poppy"]
+// console.log(team1);  // Output: ["John", "Bob", "Alice", "Poppy"]
+// console.log(cap1);   // Output: { name: "John Doe", age: 80 }
